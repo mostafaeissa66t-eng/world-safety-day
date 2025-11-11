@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Tajawal', sans-serif;
+  /* هذه الإضافة لجعل التمرير عند الضغط على الروابط سلسًا */
+  scroll-behavior: smooth;
+}
